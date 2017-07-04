@@ -6,8 +6,6 @@ My capstone only focuses on the 1st part of the challenge: Locating S1 and S2 he
 
 For this Set_A folder labeled Heart sound data is been used
 
-The audio features are extracted using MFCC
+The audio features are extracted using MFCC/ Librosa package
 
-I have done some initial analysis by using Kmeans to identify heart sounds
-
-I am eeventually planning to neural net (CNN) to classify S1 and S2 
+My focus is to try different techniques Like Logistic Regression / SVM / Conv Nueral Net to see which one gives better results
